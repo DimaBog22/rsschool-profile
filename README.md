@@ -1,2 +1,2 @@
 Dzmitry Bahdanau
-Introduction to HTML - https://www.codecademy.com/learn/learn-html
+HTML CSS Basics: https://www.codecademy.com/users/DimaBog22/achievements
